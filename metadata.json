@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Curator",
+  "description": "Get personalized music recommendations based on your Spotify liked songs. Describe any vibe, mood, or activity, and get a custom playlist curated by AI.",
+  "requestFramePermissions": []
+}
